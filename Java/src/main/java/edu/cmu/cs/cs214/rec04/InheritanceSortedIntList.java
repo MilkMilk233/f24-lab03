@@ -51,7 +51,6 @@ public class InheritanceSortedIntList extends SortedIntList{
      * @return the number of total adds.
      */
    public int getTotalAdded(){
-    System.out.printf("%d", this.totalAdded);
     return this.totalAdded;
 }
 
